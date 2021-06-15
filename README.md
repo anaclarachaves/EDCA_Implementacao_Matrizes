@@ -1,4 +1,4 @@
-# Trabalho de Implementação de Multiplicação de Algoritmos da disciplina 'Estrutura de Dados e Complexidade de Algoritmos'
+# Trabalho de Implementação de Multiplicação de Matrizes da disciplina 'Estrutura de Dados e Complexidade de Algoritmos'
 
 ## Instruções para executar:
 1. Depois de dar um *git clone*, abrir a pasta com o Jupyter Notebook no Anaconda.
